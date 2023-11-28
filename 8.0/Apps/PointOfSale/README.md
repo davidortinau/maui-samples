@@ -13,7 +13,7 @@ urlFragment: apps-pointofsale
 
 # Point of Sale (Demo App)
 
-From [Focus on .NET Conf: MAUI](https://focus.dotnetconf.net).
+From [Focus on .NET Conf: MAUI](https://focus.dotnetconf.net) and [.NET Conf 2023](https://www.youtube.com/watch?v=4saU9BNY6l4) (updated for .NET 8).
 
 This app demonstrates various techniques for building a desktop and mobile application that takes advantage of native platform features, and adapts to a wide range of device needs all from a single codebase. This is NOT a complete application.
 
